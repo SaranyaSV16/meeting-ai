@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+websockets
+deepgram-sdk
+httpx
+qdrant-client
+pydantic
+google-auth
+google-auth-httplib2
+google-api-python-client

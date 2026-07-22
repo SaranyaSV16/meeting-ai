@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+.env
+*.json
+!package.json
+!package-lock.json
+!next.config.js
+
+# Node
+node_modules/
+.next/
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
