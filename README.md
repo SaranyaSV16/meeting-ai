@@ -1,4 +1,4 @@
-# AI Chief of Staff — Meeting Intelligence Platform
+# AI Meeting Intelligence Platform
 
 **Stack:** Deepgram → Lyzr (Chief of Staff Agent) → Qdrant → **Google ADK Executor**
 
