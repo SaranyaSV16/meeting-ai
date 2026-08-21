@@ -2,7 +2,7 @@
 
 **Stack:** Deepgram → Lyzr (Chief of Staff Agent) → Qdrant → **Google ADK Executor**
 
-Live demo: <!-- [ADD YOUR VERCEL LINK HERE](https://meeting-ai-orcin.vercel.app/) -->
+Live demo: https://meeting-ai-orcin.vercel.app/
 
 ---
 
